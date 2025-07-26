@@ -76,9 +76,16 @@ Tools & Others
 - 🌟 Passionate about contributing to Indonesia's tech ecosystem
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dimasrahmandaalfarizi&style=flat-square&color=blue" alt="Profile Views" />
+
+  
   
   *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hello! 👋*
 </div>
