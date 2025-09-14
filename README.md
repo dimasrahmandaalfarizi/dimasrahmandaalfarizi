@@ -76,11 +76,20 @@ Tools & Others
 - 🌟 Passionate about contributing to Indonesia's tech ecosystem
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph.svg">
-</picture>
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrahmandaalfarizi&theme=radical&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimasrahmandaalfarizi&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasrahmandaalfarizi&theme=react-dark&hide_border=true" alt="activity graph"/>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dimasrahmandaalfarizi&style=flat-square&color=blue" alt="Profile Views" />
