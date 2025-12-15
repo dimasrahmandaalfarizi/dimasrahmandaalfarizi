@@ -27,7 +27,6 @@ I'm a passionate web developer and informatics student who loves creating innova
 </p>
 
 ### 📱 App Development
-### 📱 App Development
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="30"/>
