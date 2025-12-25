@@ -33,7 +33,6 @@ I'm a passionate web developer and informatics student who loves creating innova
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/>
 </p>
 
-
 ### 🛠️ Tools & Others  
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> 
@@ -69,39 +68,50 @@ I'm a passionate web developer and informatics student who loves creating innova
 ---
 
 ## 📊 GitHub Stats & Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dimasrahmandaalfarizi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrahmandaalfarizi&layout=compact&theme=radical)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrahmandaalfarizi&theme=radical&hide_border=true" alt="streak stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dimasrahmandaalfarizi&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrahmandaalfarizi&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimasrahmandaalfarizi&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrahmandaalfarizi&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasrahmandaalfarizi&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dimasrahmandaalfarizi&theme=react-dark&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
 
 ## 🎯 What I'm Looking For
 - **Internships**: Seeking web development internship opportunities  
-- **Collaboration**: Open to exciting projects and collaborations with fellow students  
-- **Learning**: Always eager to learn new technologies and best practices  
+- **Collaboration**: Open to exciting projects and collaborations  
+- **Learning**: Always eager to learn new technologies  
 - **Mentorship**: Looking for guidance from experienced developers  
-- **Innovation**: Passionate about creating innovative solutions  
+- **Innovation**: Passionate about building impactful solutions  
 
 ---
 
 ## ⚡ Fun Facts
-- 🎮 I love playing strategy games in my free time  
-- ☕ Coffee is my fuel for coding sessions  
-- 🌍 I speak Indonesian, and English  
+- 🎮 I love playing strategy games  
+- ☕ Coffee is my fuel for coding  
+- 🌍 I speak Indonesian & English  
 - 🎵 I enjoy listening to sad music while coding  
-- 🏫 Proud student of UPNVJATIM Informatics Engineering  
-- 🌟 Passionate about contributing to Indonesia's tech ecosystem  
+- 🏫 Proud student of UPNVJATIM  
+- 🌟 Passionate about Indonesia's tech ecosystem  
 
 ---
 
