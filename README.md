@@ -33,7 +33,7 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Nailong" width="200" src="https://media.tenor.com/3_iBU5bXCKoAAAAd/nailong-nailong-dancing.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -119,81 +119,11 @@ fun_facts:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimasrahmandaalfarizi&theme=tokyonight&no-frame=true&no-bg=false&column=7" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasrahmandaalfarizi&theme=tokyo-night&hide_border=true&area=true&custom_title=Dimas's%20Contribution%20Graph" />
 </div>
-
----
-
-## 🕹️ Pacman eats my Contributions!
-
-<div align="center">
-
-![pacman contribution graph](https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/output/pacman-contribution-graph.svg)
-
-</div>
-
----
-
-## 🐍 Snake eating my commits...
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/output/github-snake.svg)
-
-</div>
-
-<!--
-==========================================================
-  SETUP PACMAN & SNAKE ANIMATION (WAJIB DILAKUKAN SEKALI)
-==========================================================
-Buat file: .github/workflows/pacman.yml
-Isi dengan:
-
-name: Generate Pacman & Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github
-            dist/pacman-contribution-graph.svg?palette=github&color_snake=orange&color_dots=#1a1b27,#1f4287,#4b91f1,#3c7dd9,#00d9ff
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Push ke GitHub, tunggu Actions jalan, Pacman & Snake langsung muncul!
-==========================================================
--->
 
 ---
 
@@ -214,6 +144,7 @@ Push ke GitHub, tunggu Actions jalan, Pacman & Snake langsung muncul!
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <p>BACKBURNER BACKBURNER BACKBURNER BACKBURNER</p>
 </div>
 
 ---
@@ -233,6 +164,8 @@ Push ke GitHub, tunggu Actions jalan, Pacman & Snake langsung muncul!
     <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img src="https://media.tenor.com/3_iBU5bXCKoAAAAd/nailong-nailong-dancing.gif" width="80"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
