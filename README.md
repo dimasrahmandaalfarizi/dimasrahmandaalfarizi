@@ -33,7 +33,7 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Nailong" width="200" src="https://media.tenor.com/3_iBU5bXCKoAAAAd/nailong-nailong-dancing.gif"/>
+<img align="right" alt="Nailong" width="200" src="https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/main/Nailong.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -144,7 +144,7 @@ fun_facts:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <p>BACKBURNER BACKBURNER BACKBURNER BACKBURNER</p>
+  <p>BACKBURNER BACKBURNER BACKBURNER</p>
 </div>
 
 ---
@@ -165,7 +165,7 @@ fun_facts:
   </a>
 </p>
 
-<img src="https://media.tenor.com/3_iBU5bXCKoAAAAd/nailong-nailong-dancing.gif" width="80"/>
+<img src="https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/main/Nailong.gif" width="80"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
