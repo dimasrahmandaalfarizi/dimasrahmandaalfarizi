@@ -1,153 +1,239 @@
-# 👋 Hi there, I'm Dimas Rahmanda Alfarizi
+<div align="center">
 
-## 🚀 Web Developer & Informatics Student  
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dimas%20Rahmanda%20Alfarizi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Informatics%20Student&descAlignY=55&descSize=18"/>
 
-📍 **Based in Surabaya, Indonesia**  
-🎓 **Informatics Student @ UPNVJATIM**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Dimas+%F0%9F%91%8B;Full-Stack+Web+Developer;Informatics+Student+%40+UPNVJATIM;Always+Learning+New+Things+%F0%9F%9A%80;Building+Impactful+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
 
-I'm a passionate web developer and informatics student who loves creating innovative web applications and solving complex problems through code. Currently pursuing my degree in Informatics at UPNVJATIM while building real-world projects and expanding my technical skills.
+<br/>
+
+<!-- Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/dimasrahmandaalfarizi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dmsrah">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:dimas.alfarizi@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dimasrahmandaalfarizi.github.io/portofolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=dimasrahmandaalfarizi&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- About Me -->
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-### 🌐 Web Development
-<p align="left"> 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/>
+### 👨‍💻 About Me
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
+```yaml
+name: Dimas Rahmanda Alfarizi
+location: Surabaya, Indonesia 🇮🇩
+education: Informatics Engineering @ UPNVJATIM
+role: Web Developer & Informatics Student
+available_for:
+  - Internships
+  - Collaborations
+  - Open Source Projects
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="30"/>
+interests:
+  - Full-Stack Web Development
+  - Mobile App Development
+  - Cloud Architecture
+  - UI/UX Design
 
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/> 
+fun_facts:
+  - "☕ Coffee-powered developer"
+  - "🎮 Strategy games enthusiast"
+  - "🎵 Codes to sad music vibes"
+  - "🌟 Indonesia tech ecosystem advocate"
+```
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,svelte,tailwind,bootstrap" />
 </p>
 
-### 🗄️ Databases & API
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" height="30"/>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,fastapi,graphql" />
 </p>
 
-### 📱 App Development
-<p align="left">
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/>
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
 </p>
 
 ### ☁️ DevOps & Cloud
-<p align="left">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="30"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,linux" />
 </p>
 
-### 🛠️ Tools & Productivity
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,xampp" />
 </p>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dimasrahmandaalfarizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrahmandaalfarizi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrahmandaalfarizi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimasrahmandaalfarizi&theme=tokyonight&no-frame=true&no-bg=false&column=7" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasrahmandaalfarizi&theme=tokyo-night&hide_border=true&area=true&custom_title=Dimas's%20Contribution%20Graph" />
+</div>
+
+---
+
+## 🕹️ Pacman eats my Contributions!
+
+<div align="center">
+
+![pacman contribution graph](https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/output/pacman-contribution-graph.svg)
+
+</div>
+
+---
+
+## 🐍 Snake eating my commits...
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/output/github-snake.svg)
+
+</div>
+
+<!--
+==========================================================
+  SETUP PACMAN & SNAKE ANIMATION (WAJIB DILAKUKAN SEKALI)
+==========================================================
+Buat file: .github/workflows/pacman.yml
+Isi dengan:
+
+name: Generate Pacman & Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github
+            dist/pacman-contribution-graph.svg?palette=github&color_snake=orange&color_dots=#1a1b27,#1f4287,#4b91f1,#3c7dd9,#00d9ff
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Push ke GitHub, tunggu Actions jalan, Pacman & Snake langsung muncul!
+==========================================================
+-->
 
 ---
 
 ## 🌱 Currently Learning
-- **Frontend Frameworks**: Next.js, Svelte  
-- **Backend Technologies**: FastAPI, GraphQL  
-- **Cloud Technologies**: AWS, Google Cloud Platform  
-- **Mobile Development**: React Native  
-- **UI/UX Design**: Figma, Adobe XD  
+
+<div align="center">
+
+| 🚀 Frontend | ⚙️ Backend | ☁️ Cloud | 📱 Mobile | 🎨 Design |
+|:-----------:|:---------:|:--------:|:---------:|:---------:|
+| Next.js | FastAPI | AWS | React Native | Figma |
+| Svelte | GraphQL | Google Cloud | Expo | Adobe XD |
+
+</div>
 
 ---
 
-## 🎓 Education
-- **Informatics Engineering** at UPNVJATIM (2025 - Present)  
-- **Relevant Coursework**: Web Development, Database Systems, Software Engineering, Data Structures & Algorithms  
+## 💭 Dev Quote of the Day
 
----
-
-## 💼 Experience
-- **Web Development Intern** at Local Startup (2023)  
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dimasrahmandaalfarizi&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrahmandaalfarizi&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrahmandaalfarizi&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dimasrahmandaalfarizi&theme=react-dark&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🎯 What I'm Looking For
-- **Internships**: Seeking web development internship opportunities  
-- **Collaboration**: Open to exciting projects and collaborations  
-- **Learning**: Always eager to learn new technologies  
-- **Mentorship**: Looking for guidance from experienced developers  
-- **Innovation**: Passionate about building impactful solutions  
-
----
-
-## ⚡ Fun Facts
-- 🎮 I love playing strategy games  
-- ☕ Coffee is my fuel for coding  
-- 🌍 I speak Indonesian & English  
-- 🎵 I enjoy listening to sad music while coding  
-- 🏫 Proud student of UPNVJATIM  
-- 🌟 Passionate about Indonesia's tech ecosystem  
-
----
-
-## 📫 Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasrahmandaalfarizi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dmsrah)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimas.alfarizi@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dimasrahmandaalfarizi.github.io/portofolio/)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dimasrahmandaalfarizi&style=flat-square&color=blue" alt="Profile Views" />
-  
-  *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hello! 👋*
+
+### 🤝 Let's Connect & Build Something Amazing!
+
+<p>
+  <a href="https://linkedin.com/in/dimasrahmandaalfarizi">
+    <img src="https://img.shields.io/badge/Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dimasrahmandaalfarizi.github.io/portofolio/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="mailto:dimas.alfarizi@email.com">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
 </div>
