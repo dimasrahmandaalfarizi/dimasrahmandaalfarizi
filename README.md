@@ -101,21 +101,4 @@ fun_facts:
 </p>
 
 </div>
----
-<p>
-  <a href="https://linkedin.com/in/dimasrahmandaalfarizi">
-    <img src="https://img.shields.io/badge/Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dimasrahmandaalfarizi.github.io/portofolio/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="mailto:dimas.alfarizi@email.com">
-    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/main/Nailong.gif" width="80"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
 </div>
