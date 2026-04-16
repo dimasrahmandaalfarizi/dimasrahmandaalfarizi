@@ -101,58 +101,7 @@ fun_facts:
 </p>
 
 </div>
-
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dimasrahmandaalfarizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrahmandaalfarizi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrahmandaalfarizi&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasrahmandaalfarizi&theme=tokyo-night&hide_border=true&area=true&custom_title=Dimas's%20Contribution%20Graph" />
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-| 🚀 Frontend | ⚙️ Backend | ☁️ Cloud | 📱 Mobile | 🎨 Design |
-|:-----------:|:---------:|:--------:|:---------:|:---------:|
-| Next.js | FastAPI | AWS | React Native | Figma |
-| Svelte | GraphQL | Google Cloud | Expo | Adobe XD |
-
-</div>
-
----
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <p>BACKBURNER BACKBURNER BACKBURNER</p>
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Amazing!
-
 <p>
   <a href="https://linkedin.com/in/dimasrahmandaalfarizi">
     <img src="https://img.shields.io/badge/Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
