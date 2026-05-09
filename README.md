@@ -70,17 +70,19 @@ fun_facts:
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,svelte,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,svelte,astro,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,fastapi,graphql" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,bun,express,nestjs,fastapi,graphql" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="48"/>
 </p>
 
 ### 📱 Mobile
@@ -92,12 +94,17 @@ fun_facts:
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,nginx,linux" />
 </p>
 
 ### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,xampp" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vite,pnpm,xampp" />
+</p>
+
+### 🧪 Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
 </p>
 
 </div>
