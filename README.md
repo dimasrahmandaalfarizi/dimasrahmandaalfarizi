@@ -102,10 +102,5 @@ fun_facts:
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vite,pnpm,xampp" />
 </p>
 
-### 🧪 Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,vitest" />
-</p>
-
 </div>
 </div>
