@@ -103,4 +103,15 @@ fun_facts:
 </p>
 
 </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| Stats | Streak | Languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=dimasrahmandaalfarizi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180em" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrahmandaalfarizi&theme=tokyonight&hide_border=true&border_radius=10" height="180em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrahmandaalfarizi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" /> |
+
+</div>
+
 </div>
