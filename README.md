@@ -68,36 +68,41 @@ fun_facts:
 
 <div align="center">
 
-### 🌐 Frontend
+<!-- Frontend -->
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,svelte,astro,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+<!-- Backend -->
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,bun,express,nestjs,fastapi,graphql" />
 </p>
 
-### 🗄️ Database
+<!-- Database -->
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
   &nbsp;
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="48"/>
 </p>
 
-### 📱 Mobile
+<!-- Mobile Development -->
 <p>
-  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,kotlin,dart,flutter" />
   &nbsp;
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
 </p>
 
-### ☁️ DevOps & Cloud
+<!-- Programming Languages -->
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+<!-- DevOps & Cloud -->
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,nginx,linux" />
 </p>
 
-### 🔧 Tools
+<!-- Tools -->
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vite,pnpm,xampp" />
 </p>
