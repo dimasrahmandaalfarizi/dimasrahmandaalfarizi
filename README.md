@@ -35,7 +35,7 @@
 <!-- About Me -->
 <img align="right" alt="Nailong" width="200" src="https://raw.githubusercontent.com/dimasrahmandaalfarizi/dimasrahmandaalfarizi/main/Nailong.gif"/>
 
-### 👨‍💻 About Me
+###  About Me
 
 ```yaml
 name: Dimas Rahmanda Alfarizi
@@ -54,17 +54,17 @@ interests:
   - UI/UX Design
 
 fun_facts:
-  - "☕ Coffee-powered developer"
-  - "🎮 Strategy games enthusiast"
-  - "🎵 Codes to sad music vibes"
-  - "🌟 Indonesia tech ecosystem advocate"
+  - "Coffee-powered developer"
+  - "Strategy games enthusiast"
+  - "Codes to sad music vibes"
+  - "Indonesia tech ecosystem advocate"
 ```
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -109,7 +109,7 @@ fun_facts:
 
 </div>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
