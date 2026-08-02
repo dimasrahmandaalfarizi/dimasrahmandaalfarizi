@@ -94,7 +94,7 @@ fun_facts:
 
 <!-- Programming Languages -->
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,go" />
 </p>
 
 <!-- DevOps & Cloud -->
@@ -105,6 +105,11 @@ fun_facts:
 <!-- Tools -->
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vite,pnpm,xampp" />
+</p>
+
+<!-- IoT & Messaging -->
+<p>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" height="48"/>
 </p>
 
 </div>
