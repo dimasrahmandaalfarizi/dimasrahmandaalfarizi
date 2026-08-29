@@ -60,7 +60,7 @@ fun_facts:
   - "Indonesia tech ecosystem advocate"
 ```
 
-<br clear="both"/>
+<!-- <br clear="both"/>
 
 ---
 
@@ -68,46 +68,38 @@ fun_facts:
 
 <div align="center">
 
-<!-- Frontend -->
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,svelte,astro,tailwind,bootstrap" />
 </p>
 
-<!-- Backend -->
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,bun,express,nestjs,fastapi,graphql" />
 </p>
 
-<!-- Database -->
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
   &nbsp;
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="48"/>
 </p>
 
-<!-- Mobile Development -->
 <p>
   <img src="https://skillicons.dev/icons?i=react,androidstudio,kotlin,dart,flutter" />
   &nbsp;
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
 </p>
 
-<!-- Programming Languages -->
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,go" />
 </p>
 
-<!-- DevOps & Cloud -->
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,nginx,linux" />
 </p>
 
-<!-- Tools -->
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vite,pnpm,xampp" />
 </p>
 
-<!-- IoT & Messaging -->
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" height="48"/>
 </p>
@@ -124,4 +116,4 @@ fun_facts:
 
 </div>
 
-</div>
+</div> -->
